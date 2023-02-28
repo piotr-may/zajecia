@@ -7,6 +7,6 @@
     <title>LOL</title>
 </head>
 <body>
-    zsk poznan
+    zsk poznan.pl.uczen,.cvebbb
 </body>
 </html>
